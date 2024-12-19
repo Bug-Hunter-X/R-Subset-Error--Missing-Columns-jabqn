@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R when subsetting data frames using character vectors for column selection.  The code attempts to select columns that may not exist, resulting in an error. The solution shows how to gracefully handle missing columns using safer subsetting techniques.
